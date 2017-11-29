@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">spnj latihan 2</string>
+
+    <string name="app"><b>MIUI</b> CONCEPT</string>
+    <string name="app_desc">Aplikasi latihan layouting kelas SPNJ</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="sign_fb">Sign up with <b>Facebook</b></string>
+
+    <string name="sign_up_2">Sign Up</string>
+    <string name="sign_in_2">Sign In</string>
+
+    <string name="nama">Abdullah Musthofa</string>
+    <string name="email">amusthofa@gmail.com</string>
+    <string name="password">Your password</string>
+
+    <string name="haveAccount">Already have account?</string>
+</resources>
